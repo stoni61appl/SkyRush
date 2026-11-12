@@ -8,8 +8,6 @@ public class Player : MonoBehaviour
     public Sprite climbSprite;
     private int spriteIndex;
 
-
-
     private Rigidbody2D rb;
     private CapsuleCollider2D capsuleCollider;
 
@@ -42,12 +40,6 @@ public class Player : MonoBehaviour
     private bool estaAtacandoValida = false;
     public AudioClip ataqueSound;
 
-    [Header("Configuración del Control Físico")]
-    private ArduinoController control;
-    private bool controlSaltoPresionado = false;
-    private bool controlAtaquePresionado = false;
-    private bool controlPausaPresionado = false;
-
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -66,16 +58,6 @@ public class Player : MonoBehaviour
         }
     }
 
-    private void Start()
-    {
-        // Busca dinámicamente al encargado de leer el puerto serie en la escena
-        control = Object.FindFirstObjectByType<ArduinoController>();
-        if (control == null)
-        {
-            Debug.LogWarning("No se encontró ArduinoController en la escena. Usando teclado como respaldo.");
-        }
-    }
-
     private void OnEnable()
     {
         InvokeRepeating(nameof(AnimateSprite), 1f / 12f, 1f / 12f);
@@ -86,48 +68,35 @@ public class Player : MonoBehaviour
         CancelInvoke();
     }
 
+    // Eje horizontal con A (izquierda) y D (derecha)
+    private float GetEjeX()
+    {
+        float x = 0f;
+        if (Input.GetKey(KeyCode.D)) x += 1f;
+        if (Input.GetKey(KeyCode.A)) x -= 1f;
+        return x;
+    }
+
+    // Eje vertical con W (arriba) y S (abajo)
+    private float GetEjeY()
+    {
+        float y = 0f;
+        if (Input.GetKey(KeyCode.W)) y += 1f;
+        if (Input.GetKey(KeyCode.S)) y -= 1f;
+        return y;
+    }
+
     private void Update()
     {
         CheckCollision();
         SetDirection();
 
-        // --- ENTRADA DE ATAQUE (Botón Arduino o Tecla F) ---
-        bool presionoAtacar = false;
-
-        if (control != null)
-        {
-            if (control.botonAtacar && !controlAtaquePresionado)
-            {
-                presionoAtacar = true;
-                controlAtaquePresionado = true;
-            }
-            else if (!control.botonAtacar)
-            {
-                controlAtaquePresionado = false;
-            }
-        }
-        else
-        {
-            presionoAtacar = Input.GetKeyDown(KeyCode.F);
-        }
+        // --- ENTRADA DE ATAQUE (Tecla F) ---
+        bool presionoAtacar = Input.GetKeyDown(KeyCode.F);
 
         if (puedeAtacar && presionoAtacar && !estaAtacandoValida)
         {
             StartCoroutine(SecuenciaAtaqueEspada());
-        }
-
-        // --- ENTRADA DE PAUSA DESDE ARDUINO ---
-        if (control != null)
-        {
-            if (control.botonPausa && !controlPausaPresionado)
-            {
-                controlPausaPresionado = true;
-                LanzarAccionPausa(); // Llama a tu script PausarJuego
-            }
-            else if (!control.botonPausa)
-            {
-                controlPausaPresionado = false;
-            }
         }
     }
 
@@ -162,26 +131,11 @@ public class Player : MonoBehaviour
 
     private void SetDirection()
     {
-        float inputHorizontal = (control != null) ? control.ejeX : Input.GetAxis("Horizontal");
-        float inputVertical = (control != null) ? control.ejeY : Input.GetAxis("Vertical");
+        float inputHorizontal = GetEjeX();
+        float inputVertical = GetEjeY();
 
-        bool presionoSalto = false;
-        if (control != null)
-        {
-            if (control.botonSaltar && !controlSaltoPresionado)
-            {
-                presionoSalto = true;
-                controlSaltoPresionado = true;
-            }
-            else if (!control.botonSaltar)
-            {
-                controlSaltoPresionado = false;
-            }
-        }
-        else
-        {
-            presionoSalto = Input.GetButtonDown("Jump");
-        }
+        // Salto con la barra espaciadora
+        bool presionoSalto = Input.GetKeyDown(KeyCode.Space);
 
         if (climbing)
         {
@@ -241,7 +195,7 @@ public class Player : MonoBehaviour
 
             if (grounded && !climbing && Time.time >= nextFootstepTime)
             {
-                float inputX = (control != null) ? control.ejeX : Input.GetAxisRaw("Horizontal");
+                float inputX = GetEjeX();
 
                 if (inputX < -0.1f)
                 {
@@ -254,24 +208,6 @@ public class Player : MonoBehaviour
                     nextFootstepTime = Time.time + footstepDelay;
                 }
             }
-        }
-    }
-
-    // =========================================================================
-    // CONEXIÓN AL CONTROLADOR DE PAUSA ORIGINAL (SINGLETON)
-    // =========================================================================
-    private void LanzarAccionPausa()
-    {
-        Debug.Log("Mando físico solicitó Pausa. Redirigiendo a PausarJuego.instancia...");
-
-        // Llama directamente a la función de tu script sin interferir con Time.timeScale aquí
-        if (PausarJuego.instancia != null)
-        {
-            PausarJuego.instancia.AlternarPausa();
-        }
-        else
-        {
-            Debug.LogWarning("No se encontró una instancia activa del script 'PausarJuego' en la escena.");
         }
     }
 
