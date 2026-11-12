@@ -1,0 +1,2017 @@
+fileFormatVersion: 2
+guid: 3959ba3272828f34480f71c7bcd2ccb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5013076192179618918
+    second: soliaa-Photoroom_0
+  - first:
+      213: -3564380718591084510
+    second: soliaa-Photoroom_1
+  - first:
+      213: 3197959527621555563
+    second: soliaa-Photoroom_2
+  - first:
+      213: 8525219110567109511
+    second: soliaa-Photoroom_3
+  - first:
+      213: 9037357231467691987
+    second: soliaa-Photoroom_4
+  - first:
+      213: -2290536558828662867
+    second: soliaa-Photoroom_5
+  - first:
+      213: -7275293401106935725
+    second: soliaa-Photoroom_6
+  - first:
+      213: -7675637300634851589
+    second: soliaa-Photoroom_7
+  - first:
+      213: -5119469601796742893
+    second: soliaa-Photoroom_8
+  - first:
+      213: 3183021031523465018
+    second: soliaa-Photoroom_9
+  - first:
+      213: 6355595205280325803
+    second: soliaa-Photoroom_10
+  - first:
+      213: 4282952671428705735
+    second: soliaa-Photoroom_11
+  - first:
+      213: 7969021922139644931
+    second: soliaa-Photoroom_12
+  - first:
+      213: 4366179983428952473
+    second: soliaa-Photoroom_13
+  - first:
+      213: 2722490689591745724
+    second: soliaa-Photoroom_14
+  - first:
+      213: -4930652190161309079
+    second: soliaa-Photoroom_15
+  - first:
+      213: 7487856925930380031
+    second: soliaa-Photoroom_16
+  - first:
+      213: 4531525128941207440
+    second: soliaa-Photoroom_17
+  - first:
+      213: -8704297176772285349
+    second: soliaa-Photoroom_18
+  - first:
+      213: -7785952602962945125
+    second: soliaa-Photoroom_19
+  - first:
+      213: 4161012160636794729
+    second: soliaa-Photoroom_20
+  - first:
+      213: -2493670619431831594
+    second: soliaa-Photoroom_21
+  - first:
+      213: 1805051724573779379
+    second: soliaa-Photoroom_22
+  - first:
+      213: 6903875424134873873
+    second: soliaa-Photoroom_23
+  - first:
+      213: -1789944463796598126
+    second: soliaa-Photoroom_24
+  - first:
+      213: -384178222641333157
+    second: soliaa-Photoroom_25
+  - first:
+      213: -2003750672443545541
+    second: soliaa-Photoroom_26
+  - first:
+      213: 14451506673744800
+    second: soliaa-Photoroom_27
+  - first:
+      213: 5187065525257149907
+    second: soliaa-Photoroom_28
+  - first:
+      213: 8313982764499553936
+    second: soliaa-Photoroom_29
+  - first:
+      213: -4749291321040849680
+    second: soliaa-Photoroom_30
+  - first:
+      213: -5015150087486100613
+    second: soliaa-Photoroom_31
+  - first:
+      213: 1942972726444594258
+    second: soliaa-Photoroom_32
+  - first:
+      213: -6352564263504405837
+    second: soliaa-Photoroom_33
+  - first:
+      213: -4188620048429704341
+    second: soliaa-Photoroom_34
+  - first:
+      213: -5552828234031203873
+    second: soliaa-Photoroom_35
+  - first:
+      213: 7945461539295199860
+    second: soliaa-Photoroom_36
+  - first:
+      213: -3377919512796066740
+    second: soliaa-Photoroom_37
+  - first:
+      213: 5111501013358084756
+    second: soliaa-Photoroom_38
+  - first:
+      213: 4948775875659149985
+    second: soliaa-Photoroom_39
+  - first:
+      213: -6988703025631717786
+    second: soliaa-Photoroom_40
+  - first:
+      213: 6355802209437302061
+    second: soliaa-Photoroom_41
+  - first:
+      213: 7126779284893444509
+    second: soliaa-Photoroom_42
+  - first:
+      213: 4378181340246356469
+    second: soliaa-Photoroom_43
+  - first:
+      213: -1583896072494281338
+    second: soliaa-Photoroom_44
+  - first:
+      213: 8470138653520609896
+    second: soliaa-Photoroom_45
+  - first:
+      213: -3751110030993241537
+    second: soliaa-Photoroom_46
+  - first:
+      213: 7634304387699793290
+    second: soliaa-Photoroom_47
+  - first:
+      213: -4845326389668710296
+    second: soliaa-Photoroom_48
+  - first:
+      213: 7125542480779474699
+    second: soliaa-Photoroom_49
+  - first:
+      213: 1797008796293189903
+    second: soliaa-Photoroom_50
+  - first:
+      213: 7972736196994855034
+    second: soliaa-Photoroom_51
+  - first:
+      213: 528422367640494458
+    second: soliaa-Photoroom_52
+  - first:
+      213: 7260756869819001191
+    second: soliaa-Photoroom_53
+  - first:
+      213: 271600556823697427
+    second: soliaa-Photoroom_54
+  - first:
+      213: -9131461879200736985
+    second: soliaa-Photoroom_55
+  - first:
+      213: -5341780712039948424
+    second: soliaa-Photoroom_56
+  - first:
+      213: 7389135628523115780
+    second: soliaa-Photoroom_57
+  - first:
+      213: 438771587912528074
+    second: soliaa-Photoroom_58
+  - first:
+      213: -7451003164269258095
+    second: soliaa-Photoroom_59
+  - first:
+      213: -2641072017835780322
+    second: soliaa-Photoroom_60
+  - first:
+      213: 5984759950198349446
+    second: soliaa-Photoroom_61
+  - first:
+      213: -8459316187740146628
+    second: soliaa-Photoroom_62
+  - first:
+      213: -348890174385490654
+    second: soliaa-Photoroom_63
+  - first:
+      213: 1767486047428560562
+    second: soliaa-Photoroom_64
+  - first:
+      213: -8942202111200474659
+    second: soliaa-Photoroom_65
+  - first:
+      213: 4315995281462985905
+    second: soliaa-Photoroom_66
+  - first:
+      213: -318957358648765864
+    second: soliaa-Photoroom_67
+  - first:
+      213: -5160689031754072982
+    second: soliaa-Photoroom_68
+  - first:
+      213: -1249019444782527309
+    second: soliaa-Photoroom_69
+  - first:
+      213: 1237045277607680941
+    second: soliaa-Photoroom_70
+  - first:
+      213: 8719926365040810273
+    second: soliaa-Photoroom_71
+  - first:
+      213: -8303822165877195495
+    second: soliaa-Photoroom_72
+  - first:
+      213: -2287121999302221903
+    second: soliaa-Photoroom_73
+  - first:
+      213: -2846207764215610784
+    second: soliaa-Photoroom_74
+  - first:
+      213: 2183370148824255222
+    second: soliaa-Photoroom_75
+  - first:
+      213: 2466712927619823368
+    second: soliaa-Photoroom_76
+  - first:
+      213: 6634887423506643658
+    second: soliaa-Photoroom_77
+  - first:
+      213: -3766814336179676563
+    second: soliaa-Photoroom_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soliaa-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 284
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7a2d73c9fd6ab0800000000000000
+      internalID: -5013076192179618918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 441
+        width: 234
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22870201f96c88ec0800000000000000
+      internalID: -3564380718591084510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 649
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6575f13f3f616c20800000000000000
+      internalID: 3197959527621555563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 664
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78369bdcc99af4670800000000000000
+      internalID: 8525219110567109511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 442
+        width: 288
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df70f125842b6d70800000000000000
+      internalID: 9037357231467691987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 553
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc8f1b2216630e0800000000000000
+      internalID: -2290536558828662867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 451
+        width: 228
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3501746a237f80b90800000000000000
+      internalID: -7275293401106935725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6ebe6da88aa7590800000000000000
+      internalID: -7675637300634851589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 412
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311ae72758df3f8b0800000000000000
+      internalID: -5119469601796742893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 412
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37bd8883cc5c2c20800000000000000
+      internalID: 3183021031523465018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 412
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e8e27a2c933850800000000000000
+      internalID: 6355595205280325803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 412
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd715a33ca107b30800000000000000
+      internalID: 4282952671428705735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 412
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042f6c6737a79e60800000000000000
+      internalID: 7969021922139644931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 407
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99124b9df89c79c30800000000000000
+      internalID: 4366179983428952473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 412
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc9c699bda38c520800000000000000
+      internalID: 2722490689591745724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 407
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fe6ee4fdc29bb0800000000000000
+      internalID: -4930652190161309079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 412
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa5707a3363ae760800000000000000
+      internalID: 7487856925930380031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 412
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ffb41881633ee30800000000000000
+      internalID: 4531525128941207440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 412
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6d07c5df143780800000000000000
+      internalID: -8704297176772285349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 192
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9d5efb5db2f390800000000000000
+      internalID: -7785952602962945125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 151
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96736dc9382eeb930800000000000000
+      internalID: 4161012160636794729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 211
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ffed98c3b46dd0800000000000000
+      internalID: -2493670619431831594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 213
+        width: 155
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52d6cdaf4dc0910800000000000000
+      internalID: 1805051724573779379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 275
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113cb15be1e7fcf50800000000000000
+      internalID: 6903875424134873873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 229
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0ab36ef6d827e0800000000000000
+      internalID: -1789944463796598126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 229
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb50521ff1baaf0800000000000000
+      internalID: -384178222641333157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 229
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b386d86316f3134e0800000000000000
+      internalID: -2003750672443545541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 229
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf1c99197533000800000000000000
+      internalID: 14451506673744800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 180
+        width: 132
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd90abec982cf740800000000000000
+      internalID: 5187065525257149907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 229
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e47b26643316370800000000000000
+      internalID: 8313982764499553936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 175
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b382d4b0271eb0800000000000000
+      internalID: -4749291321040849680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 180
+        width: 136
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b2f1c119b966ab0800000000000000
+      internalID: -5015150087486100613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 175
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25490008663d6fa10800000000000000
+      internalID: 1942972726444594258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 180
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9afca57827d7a0800000000000000
+      internalID: -6352564263504405837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 180
+        width: 157
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b944a12480fd5c0800000000000000
+      internalID: -4188620048429704341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 180
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97fcb242460f2b0800000000000000
+      internalID: -5552828234031203873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 175
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47208325c23f34e60800000000000000
+      internalID: 7945461539295199860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 181
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c0eef99183f11d0800000000000000
+      internalID: -3377919512796066740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 180
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492024af613bfe640800000000000000
+      internalID: 5111501013358084756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 180
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2bfad60759da440800000000000000
+      internalID: 4948775875659149985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 181
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666168c30a3230f90800000000000000
+      internalID: -6988703025631717786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 181
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d372c5f68543850800000000000000
+      internalID: 6355802209437302061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 62
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99afa4100867e260800000000000000
+      internalID: 7126779284893444509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b0ab7bbc62cc30800000000000000
+      internalID: 4378181340246356469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 137
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d87d5f9eed40ae0800000000000000
+      internalID: -1583896072494281338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 142
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c6698a3afb8570800000000000000
+      internalID: 8470138653520609896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 73
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a4e311d4161fbc0800000000000000
+      internalID: -3751110030993241537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 94
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d5d00746f72f960800000000000000
+      internalID: 7634304387699793290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 65
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86878faf151f1ccb0800000000000000
+      internalID: -4845326389668710296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07f0de222303e260800000000000000
+      internalID: 7125542480779474699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 116
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01de41baf140f810800000000000000
+      internalID: 1797008796293189903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 121
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f6cd6459d4ae60800000000000000
+      internalID: 7972736196994855034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71259af755555700800000000000000
+      internalID: 528422367640494458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e90a67e363c460800000000000000
+      internalID: 7260756869819001191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 79
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185646744be4c300800000000000000
+      internalID: 271600556823697427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729183a2dc7864180800000000000000
+      internalID: -9131461879200736985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 68
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f53de8ebe2ed5b0800000000000000
+      internalID: -5341780712039948424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4059d4f64bb7b8660800000000000000
+      internalID: 7389135628523115780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07f0b3f64d61600800000000000000
+      internalID: 438771587912528074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 68
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5b656918b89890800000000000000
+      internalID: -7451003164269258095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e179ca62ef6095bd0800000000000000
+      internalID: -2641072017835780322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 28
+        width: 89
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9e8157732e0350800000000000000
+      internalID: 5984759950198349446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 33
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3479032fb87a9a80800000000000000
+      internalID: -8459316187740146628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 33
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f0222c3e782bf0800000000000000
+      internalID: -348890174385490654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 33
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64072123f578810800000000000000
+      internalID: 1767486047428560562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 33
+        width: 104
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c524ce8ae6e380800000000000000
+      internalID: -8942202111200474659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 28
+        width: 136
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40dd367de75eb30800000000000000
+      internalID: 4315995281462985905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 33
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525e33e8f5d29bf0800000000000000
+      internalID: -318957358648765864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 33
+        width: 138
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3b0a0bac8168b0800000000000000
+      internalID: -5160689031754072982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc8e2cbe679aaee0800000000000000
+      internalID: -1249019444782527309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab51e6302eda2110800000000000000
+      internalID: 1237045277607680941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12912df24d6630970800000000000000
+      internalID: 8719926365040810273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 104
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dffd45cb5e2cc80800000000000000
+      internalID: -8303822165877195495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 7
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf1c99c8a28240e0800000000000000
+      internalID: -2287121999302221903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 7
+        width: 71
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06248f84e1d3088d0800000000000000
+      internalID: -2846207764215610784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2
+        width: 103
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa8cd51593ec4e10800000000000000
+      internalID: 2183370148824255222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2
+        width: 119
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b4a5a6568b3220800000000000000
+      internalID: 2466712927619823368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 7
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf1d265fad31c50800000000000000
+      internalID: 6634887423506643658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soliaa-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 7
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a5925915699bbc0800000000000000
+      internalID: -3766814336179676563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
